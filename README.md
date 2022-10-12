@@ -23,5 +23,5 @@ I provide both a Python and a Matlab implementation of the BayesFactorPref funct
 
  If you use this software, please reference it as follows : T. Fauvel and M. Chalk, (2022). Human-in-the-loop optimization of visual prosthetic stimulation. Journal of Neural Engineering,19(3), 036038. 
 
- ## License
-   This software is distributed under the MIT License. Please refer to the file LICENCE.txt included for details.
+## License
+This software is distributed under the MIT License. Please refer to the file LICENCE.txt included for details.
