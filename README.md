@@ -7,6 +7,10 @@ We would like to use a statistical test to determine which of the two  configura
 The two competing hypotheses are $H_1$ (resp. $H_2$): items in the configuration $A_1$ (resp. $A_2$) are preferred to items in configuration $A_2$ (resp. $A_1$). 
 This repository contains the code to run a Bayesian analysis method for this problem based on the Bayes factor. It is adapted from Kass & Raftery, 1995 (see also chapter 5 of Robert, 2005) and was first published in Fauvel & Chalk, 2022. 
 
+## Maths
+
+The derivation of the Bayes factor for preference comparisons is presented in the notebook TestBayesFactorPref.ipynb
+
 ## Code usage
 
 I provide both a Python and a Matlab implementation of the BayesFactorPref function in this repository. In order to test it, you can use TestBayesFactorPref either in Matlab or Python.
